@@ -2,9 +2,9 @@ Claro, aqui está um exemplo de README.md para o GitHub:
 
 ---
 
-# Palpites do Campeonato - README
+# Palpites do Campeonato Brasileiro - README
 
-Este é um programa simples em C que permite aos usuários registrar seus palpites para o campeonato e compará-los com uma tabela fixa de classificação para ver quantos pontos eles teriam marcado.
+Este é um programa simples em C que permite aos usuários registrar seus palpites para o campeonato brasileiro e compará-los com uma tabela fixa de classificação para ver quantos pontos eles teriam marcado.
 
 ## Funcionalidades
 
@@ -46,5 +46,3 @@ gcc -o main.exe main.c operations.c
 - Os arquivos de dados, como os arquivos de palpites dos participantes, são salvos no formato de texto simples.
 
 ---
-
-Este README fornece uma visão geral básica da aplicação e orientações sobre como utilizá-la e compilar os arquivos fonte. Você pode expandir este README adicionando mais detalhes sobre a aplicação, como requisitos do sistema, exemplos de uso e informações adicionais sobre a implementação.
