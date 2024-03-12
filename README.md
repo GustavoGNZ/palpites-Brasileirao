@@ -1,4 +1,4 @@
-Claro, aqui está um exemplo de README.md para o GitHub:
+
 
 ---
 
